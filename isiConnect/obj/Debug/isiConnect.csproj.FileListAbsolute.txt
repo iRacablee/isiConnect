@@ -1,0 +1,13 @@
+C:\Users\adm_irajabli\source\repos\isiConnect\isiConnect\bin\Debug\isiConnect.exe.config
+C:\Users\adm_irajabli\source\repos\isiConnect\isiConnect\bin\Debug\isiConnect.exe
+C:\Users\adm_irajabli\source\repos\isiConnect\isiConnect\bin\Debug\isiConnect.pdb
+C:\Users\adm_irajabli\source\repos\isiConnect\isiConnect\obj\Debug\isiConnect.csproj.AssemblyReference.cache
+C:\Users\adm_irajabli\source\repos\isiConnect\isiConnect\obj\Debug\isiConnect.csproj.SuggestedBindingRedirects.cache
+C:\Users\adm_irajabli\source\repos\isiConnect\isiConnect\obj\Debug\isiConnect.Form1.resources
+C:\Users\adm_irajabli\source\repos\isiConnect\isiConnect\obj\Debug\isiConnect.Properties.Resources.resources
+C:\Users\adm_irajabli\source\repos\isiConnect\isiConnect\obj\Debug\isiConnect.csproj.GenerateResource.cache
+C:\Users\adm_irajabli\source\repos\isiConnect\isiConnect\obj\Debug\isiConnect.csproj.CoreCompileInputs.cache
+C:\Users\adm_irajabli\source\repos\isiConnect\isiConnect\obj\Debug\isiConnect.exe
+C:\Users\adm_irajabli\source\repos\isiConnect\isiConnect\obj\Debug\isiConnect.pdb
+C:\Users\adm_irajabli\source\repos\isiConnect\isiConnect\obj\Debug\isiConnect.FormEnterUsername.resources
+C:\Users\adm_irajabli\source\repos\isiConnect\isiConnect\obj\Debug\isiConnect.FormIncomeConnection.resources
